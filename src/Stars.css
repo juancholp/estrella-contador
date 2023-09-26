@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 20vh; 
+    background-color: grey;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 20% 30% 10% 30%;
+  }
+  
+  .star-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .star {
+    margin: 0 5px;
+  }
